@@ -1,0 +1,15 @@
+C:\Users\sabao\Documents\GitHub\New folder\HW_9\HW_9\bin\Debug\net6.0\HW_9.exe
+C:\Users\sabao\Documents\GitHub\New folder\HW_9\HW_9\bin\Debug\net6.0\HW_9.deps.json
+C:\Users\sabao\Documents\GitHub\New folder\HW_9\HW_9\bin\Debug\net6.0\HW_9.runtimeconfig.json
+C:\Users\sabao\Documents\GitHub\New folder\HW_9\HW_9\bin\Debug\net6.0\HW_9.dll
+C:\Users\sabao\Documents\GitHub\New folder\HW_9\HW_9\bin\Debug\net6.0\HW_9.pdb
+C:\Users\sabao\Documents\GitHub\New folder\HW_9\HW_9\obj\Debug\net6.0\HW_9.csproj.AssemblyReference.cache
+C:\Users\sabao\Documents\GitHub\New folder\HW_9\HW_9\obj\Debug\net6.0\HW_9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabao\Documents\GitHub\New folder\HW_9\HW_9\obj\Debug\net6.0\HW_9.AssemblyInfoInputs.cache
+C:\Users\sabao\Documents\GitHub\New folder\HW_9\HW_9\obj\Debug\net6.0\HW_9.AssemblyInfo.cs
+C:\Users\sabao\Documents\GitHub\New folder\HW_9\HW_9\obj\Debug\net6.0\HW_9.csproj.CoreCompileInputs.cache
+C:\Users\sabao\Documents\GitHub\New folder\HW_9\HW_9\obj\Debug\net6.0\HW_9.dll
+C:\Users\sabao\Documents\GitHub\New folder\HW_9\HW_9\obj\Debug\net6.0\refint\HW_9.dll
+C:\Users\sabao\Documents\GitHub\New folder\HW_9\HW_9\obj\Debug\net6.0\HW_9.pdb
+C:\Users\sabao\Documents\GitHub\New folder\HW_9\HW_9\obj\Debug\net6.0\HW_9.genruntimeconfig.cache
+C:\Users\sabao\Documents\GitHub\New folder\HW_9\HW_9\obj\Debug\net6.0\ref\HW_9.dll
